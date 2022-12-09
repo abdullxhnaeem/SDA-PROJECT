@@ -1,0 +1,8 @@
+1,ali,uwu,floormanager,20000,A
+2,hassan,uwu,storemanager,40000,A
+3,ahsan,uwu,storeadmin,2000,P
+6,jerry,tom123,storemanager,30000,A
+8,sherry,john69,storeadmin,30000,P
+10,ahmed,popstar100,inventorymanager,23000,P
+69,hammad,pop12,saleagent,3500000,P
+99,mohsin,123456,saleagent,10000000,P
